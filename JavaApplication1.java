@@ -26,10 +26,14 @@ public class JavaApplication1 {
           System.out.print("Hello, world2!");
         }
         System.out.print("Hello, world3!");
+
         System.out.print("Hello, world5!");
 //age
 int age=30;
 System.out.println("Age in months is "+age*12)
+
+        System.out.print("Hello, webProg!");
+
     }
     
 }
