@@ -26,6 +26,7 @@ public class JavaApplication1 {
           System.out.print("Hello, world2!");
         }
         System.out.print("Hello, world3!");
+        System.out.print("Hello, world4!");
     }
     
 }
